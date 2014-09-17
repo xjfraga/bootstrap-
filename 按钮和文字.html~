@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="zh-cn">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<link href="http://netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css" rel="stylesheet">
+<title>Hello World</title>
+</head>
+<body>
+<h1 class="text-center">Hello World!</h1>
+<p class="text-center"><a class="btn btn-primary btn-lg" href="http://arkinbaza.cn">我是按钮，按我一下</a></p>
+<div class="btn-group, text-center">
+<button type="button" class="btn btn-default" data-toggle="tooltip" data-placement="right" title="显示在左边">left</button>
+<button type="button" class="btn btn-default">middle</button>
+<button type="button" class="btn btn-default">right</button>
+</div>
+<script src="http://libs.baidu.com/jquery/1.9.0/jquery.js" type="javascript"></script>
+<script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js" type="javascript"></script>
+</body>
+</html>
